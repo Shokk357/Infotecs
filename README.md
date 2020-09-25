@@ -1,2 +1,2 @@
-# Infotetcs
+# Infotecs
 Internship task
